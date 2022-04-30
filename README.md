@@ -2,7 +2,7 @@
 
 This repository is a codebase of a thesis project "Simulation of a Seller-Customer Type Service and Modelling the Optimal Agents' Strategies With Reinforcement Learning Algorithms". 
 
-The root directory, it contains the tuned code for the baseline of the recommender system model based on https://www.kaggle.com/code/hariwh0/userbehavior-ecommerce-transformers4rec. 
+The root directory contains the tuned code for the baseline of the recommender system model based on https://www.kaggle.com/code/hariwh0/userbehavior-ecommerce-transformers4rec. 
 
 /TheSimulator directory contains two subdirectories:
 * /Prefereces has the code used to generate user preferences and item-price tuples for the simulation of the user behavior. The data used in the code can be found at https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop.
